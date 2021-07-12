@@ -1,2 +1,2 @@
-# Year2021
+# Polynomial Divider
 An interesting project on dividing polynomials
